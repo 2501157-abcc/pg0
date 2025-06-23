@@ -1,0 +1,173 @@
+
+body{
+    background-image: url(image/ChatGPT\ Image\ Jun\ 17\,\ 2025\,\ 11_53_45\ AM.png);
+    margin: 0;
+}
+#link-nav{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d1b875;
+    color: white;
+    text-align: center;
+}
+#link-nav ul{
+    display: flex;
+    border-style: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 10px;
+}
+#link-nav li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#link-nav img{
+    height: 30px;
+    margin-right: 20px;
+}
+#link-nav a{
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 15px;
+    padding: auto;
+    text-decoration: none;
+}
+#link-nav a:hover{
+    background-color: #555555;
+}
+.content {
+    margin-top: 70px;
+    padding: 20px;
+    text-align: justify;
+    background-color: #fefefe;
+    border-left: 6px solid #88a;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.sport{
+    margin: auto;
+    padding: auto;
+    width: 70%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sport img{
+    margin-top: 7%;
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+video{
+    margin-top: 5%;
+    padding: 3px;
+}
+footer{
+    background-color: beige;
+    list-style: none;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+}
+footer a:hover{
+    background-color: #F5E4d9;
+}
+.content{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+section {
+    display: flex;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #fffefb;
+    border-left: 6px solid #6b4e3d;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+
+section h2 {
+     color: #6b4e3d;
+}
+
+iframe {
+    width: 100%;
+    max-width: 700px;
+    height: 400px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 8px;
+}
+.farm{
+    margin-top: 7%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+}
+.hobby{
+        margin-top: 7%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.item-box {
+    display: flex;
+    gap: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 15px;
+    background-color: #fefefe;
+    border-left: 6px solid #88a;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.item-box p {
+    flex: 1;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.item-photo {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+.text{
+    display: flex;
+    gap: 20px;
+}
+.from{
+    width: 80%;
+    margin-bottom: 10px;
+    background-color: #fefefe;
+    border-left: 6px solid #88a;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
